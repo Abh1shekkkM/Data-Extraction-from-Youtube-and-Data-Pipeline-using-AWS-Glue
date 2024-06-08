@@ -4,6 +4,7 @@ Extracted data from Dhruv Rathee Youtube Channel using Youtube API and created a
 
 Using the code {https://github.com/Abh1shekkkM/Data-Extraction-from-Youtube-and-Data-Pipeline-using-AWS-Glue/blob/main/youtube_etl_project.py},
 I extracted the data from a popular Youtuber channel which contains data points like his video title, comment text, like counts etc.
+File link: https://drive.google.com/file/d/10nXk9NG9GgMayY6DTfM7TkRjXxNQQ0G5/view?usp=sharing
 
 This dataset is then stored on a S3 bucket which is then used as a source for ETL Job in AWS Glue to load into another bucket.
 
