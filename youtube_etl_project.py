@@ -4,7 +4,7 @@ import pandas
 import csv
 
 # Define API key and YouTube channel ID
-API_KEY = "AIzaSyAhOaU4qqJ9iuy8mjMKAYaSriEOFt3C9lY"
+API_KEY = "#####################################"
 CHANNEL_ID = "UC-CSyyi47VX1lD9zyeABW3w"  # Dhruv Rathee's channel ID
 
 
